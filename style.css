@@ -75,7 +75,7 @@ body {
     background-color: #ffffff;
 }
 
-/* CABEÇALHO */
+
 
 header {
     height: 100px;
@@ -113,7 +113,7 @@ nav a:hover {
     background-color: #cccccc;
 }
 
-/* TÍTULO */
+
 
 .titulo {
     background-color: #111442;
@@ -154,7 +154,7 @@ nav a:hover {
 
 .lado-branco p {
     margin: 15px;
-    line-height: 1.6;
+    height: 1.6;
 }
 
 .lado-roxo {
@@ -203,7 +203,7 @@ label {
     margin-bottom: 5px;
 }
 
-input,
+
 select {
     padding: 12px;
     border: 1px solid #cccccc;
@@ -253,7 +253,7 @@ footer p {
 
 
 
-@media (max-width: 700px) {
+@media (width: 700px) {
 
     header {
         height: auto;
